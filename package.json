@@ -1,0 +1,19 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuele301197/commonjs-modules.git"
+  },
+  "author": "Samuele Parisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuele301197/commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/samuele301197/commonjs-modules#readme",
+  "description": ""
+}
