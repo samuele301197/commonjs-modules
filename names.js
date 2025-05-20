@@ -1,4 +1,4 @@
-const names (firstName, lastName) {
+const names = (firstName, lastName) => {
 return {
     firstName: firstName,
     lastName: lastName
@@ -6,3 +6,5 @@ return {
 } 
 
 export default names;
+
+console.log(names);

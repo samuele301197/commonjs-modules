@@ -1,10 +1,11 @@
 import names from "./names.js";
 import hobbies from "./hobbies.js";
 
-function people {
+function people () {
     return {
-fullName: names,
-hobby: hobbies
+        fullName: names,
+        hobby: hobbies
     };
 }
+
 export default people;
