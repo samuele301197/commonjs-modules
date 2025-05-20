@@ -7,5 +7,4 @@ fullName: names,
 hobby: hobbies
     };
 }
-
 export default people;
