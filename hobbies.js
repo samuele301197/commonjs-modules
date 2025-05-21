@@ -1,8 +1,8 @@
 function hobbies(hobbyOne, hobbyTwo, hobbyThree) {
-    return hobbiELem = [hobbyOne, hobbyTwo, hobbyThree];
+    return [hobbyOne, hobbyTwo, hobbyThree];
 } 
 
-console.log(hobbies);
+// console.log(hobbies("Sport", "Natura", "Viaggio"));
 
 
 export default hobbies;

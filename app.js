@@ -1,8 +1,8 @@
 import people from "./people.js";
 
-people();
+// people();
 
-console.log(people);
+console.log(people());
 
 
 
